@@ -3,13 +3,13 @@
 require_once('FormProcessor.php');
 
 $form = array(
-    'subject' => 'New Form Submission',
-    'email_message' => 'You have a new form submission',
+    'subject' => 'Contact-us',
+    'email_message' => '',
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(
-    'from' => 'igemgothenburg@gmail.com',
-    'to' => 'igemgothenburg@gmail.com'
+    'from' => 'robinmattias@hotmail.com',
+    'to' => 'robinmattias@hotmail.com'
     ),
     'fields' => array(
     'name' => array(
