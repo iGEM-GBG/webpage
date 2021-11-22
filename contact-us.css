@@ -19,11 +19,11 @@
 }
 
 .u-section-1 .u-social-icons-1 {
-  height: 53px;
+  height: 47px;
   min-height: 16px;
-  width: 180px;
+  width: 160px;
   min-width: 68px;
-  margin: 50px auto 0;
+  margin: 57px auto 0;
 }
 
 .u-section-1 .u-icon-1 {
@@ -45,7 +45,7 @@
   font-weight: 700;
   font-size: 1.25rem;
   width: 498px;
-  margin: 61px auto 0;
+  margin: 60px auto 0;
 }
 
 .u-section-1 .u-text-4 {
@@ -91,6 +91,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-social-icons-1 {
+    width: 180px;
+  }
+
   .u-section-1 .u-text-4 {
     margin-right: 209px;
     margin-left: 233px;

@@ -8,7 +8,7 @@ $form = array(
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(
-    'from' => 'robinmattias@hotmail.com',
+    'from' => 'https:&#x2F;&#x2F;igem-gbg.github.io&#x2F;webpage&#x2F;contact-us',
     'to' => 'robinmattias@hotmail.com'
     ),
     'fields' => array(
